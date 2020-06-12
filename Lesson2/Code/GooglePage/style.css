@@ -9,6 +9,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
+
 #nav-bar {
     height: 150px;
     margin-top: 20px;
@@ -93,7 +94,123 @@ body {
     width: 272px;
     height: 92px;
 }
+#recent-page-center {
 
+    align-content: center;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+#recent-page-center2 {
+
+    align-content: center;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+#recent-page1 {
+
+    background-image: url("https://raw.githubusercontent.com/tarmenta/CS490/master/Lesson2/Pictures/umkcPic.png");
+    width: 130px;
+    height: 130px;
+    background-size: 130px 130px;
+    margin: 5px;
+
+
+    float: left;
+
+
+}
+
+#recent-page2 {
+
+    background-image: url("https://raw.githubusercontent.com/tarmenta/CS490/master/Lesson2/Pictures/GitHubPic.png");
+    width: 130px;
+    height: 130px;
+    background-size: 130px 130px;
+    margin: 5px;
+
+
+    float: left;
+
+}
+#recent-page3 {
+
+    background-image: url("https://raw.githubusercontent.com/tarmenta/CS490/master/Lesson2/Pictures/amazonPic.png");
+    width: 130px;
+    height: 130px;
+    background-size: 130px 130px;
+    margin: 5px;
+
+    float: left;
+
+}
+#recent-page4 {
+
+    background-image: url("https://raw.githubusercontent.com/tarmenta/CS490/master/Lesson2/Pictures/CanvasPic.png");
+    width: 130px;
+    height: 130px;
+    background-size: 130px 130px;
+
+    margin: 5px;
+
+    float: left;
+
+
+}
+#recent-page5 {
+
+    background-image: url("https://raw.githubusercontent.com/tarmenta/CS490/master/Lesson2/Pictures/GmailPic.png");
+    width: 130px;
+    height: 130px;
+    background-size: 130px 130px;
+    margin: 5px;
+
+
+    float: left;
+    clear: both;
+
+}
+#recent-page6 {
+
+    background-image: url("https://raw.githubusercontent.com/tarmenta/CS490/master/Lesson2/Pictures/w3Pic.png");
+    width: 130px;
+    height: 130px;
+    background-size: 130px 130px;
+
+    margin: 5px;
+
+    float: left;
+
+
+}
+#recent-page7 {
+
+    background-image: url("https://raw.githubusercontent.com/tarmenta/CS490/master/Lesson2/Pictures/linkedPic.png");
+    width: 130px;
+    height: 130px;
+    background-size: 130px 130px;
+    margin: 5px;
+
+
+    float: left;
+
+}
+#recent-page8 {
+
+    background-image: url("https://raw.githubusercontent.com/tarmenta/CS490/master/Lesson2/Pictures/beePic.png");
+    width: 130px;
+    height: 130px;
+    background-size: 130px 130px;
+    margin: 5px;
+
+    float: left;
+
+}
 #search-bar {
     position: relative;
     flex-basis: 100%;
