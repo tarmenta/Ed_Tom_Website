@@ -6,10 +6,7 @@ $(document).ready(function(){
         /*GitHub request for searches*/
         $.ajax({
             url:'https://api.github.com/users/'+ searchUser,
-            data:{
-                client_id:'b9315bcd5a07fcd759d8',
-                client_secret:'a2b698bf7e7c02f898197cf136d1a41f704ca8e4'
-            }
+
         }).done(function(user) {
 
             /*Sorting out Name and Displaying it*/
