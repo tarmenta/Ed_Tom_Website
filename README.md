@@ -1,2 +1,3 @@
-# CS490
-For Web devolpement class
+READ ME
+
+This is for internet website practice
